@@ -1,2 +1,2 @@
 # research
-Monthly articles to analyze global refugee crisis
+Where we publish monthly articles to analyze global refugee crisis
