@@ -1,2 +1,2 @@
 # research
-Where we publish monthly articles to analyze global refugee crisis
+A repository dedicated to articles analyzing global refugee crisis
